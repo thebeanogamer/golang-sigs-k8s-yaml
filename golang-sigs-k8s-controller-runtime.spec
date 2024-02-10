@@ -5,7 +5,7 @@
 # https://github.com/kubernetes-sigs/controller-runtime
 %global goipath         sigs.k8s.io/controller-runtime
 %global forgeurl        https://github.com/kubernetes-sigs/controller-runtime
-Version:                0.16.4
+Version:                0.17.1
 
 %gometa -f
 
